@@ -1,55 +1,50 @@
-## Hi there 👋
 
-<!--
-**Chinnaposani-Nikhil/Chinnaposani-Nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="./gitbanner.png" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Nikhil Chinnaposani</h1>
 
-<div align="center">
+<h3 align="center">
+Software Engineer | Java Full Stack Developer | Building Scalable Web Applications
+</h3>
 
-# Hi 👋, I'm Nikhil Chinnaposani
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=2563EB&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Web+Applications;Problem+Solver+%26+Software+Engineer;Open+to+Software+Engineering+Opportunities" />
+</p>
 
-### Software Engineer | Java Full Stack Developer | Building Scalable Web Applications
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Applications;Microservices+Enthusiast;Open+to+Software+Engineering+Opportunities" />
-
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=irohansha&label=Profile+Views&color=7aa2f7&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7aa2f7?style=flat-square" />
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nikhil-charani&label=Profile+Views&color=2563EB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-Developer-blue?style=for-the-badge" />
+</p>
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-💻 Passionate Software Engineer with hands-on experience in developing Full Stack Web Applications using Java, Spring Boot, React.js, Next.js, Node.js, MySQL, and Firebase.
+Software Engineer with experience building scalable Full Stack Applications using Java, Spring Boot, React.js, Next.js, MySQL, and Firebase.
 
-🔹 Built multiple real-world applications including:
+🚀 Built real-world applications including:
 
-- 📝 Online Examination System
-- 👨‍💼 HRM Portal
-- 🛒 Hyperlocal Quick Commerce Platform
-- 🏢 Employee & Admin Management System
-- 🌐 Multiple Responsive Business Websites
+- Online Examination System
+- HRM Portal
+- Employee & Admin Management System
+- Quick Commerce Delivery Platform
 
-🔹 Currently building a scalable Quick Commerce Grocery Delivery Platform using Microservices Architecture.
+💡 Strong foundation in:
 
-🔹 Strong foundation in OOP, DBMS, REST APIs, MVC Architecture, and System Design.
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- REST APIs
+- Database Design
+- System Design
+
+🌱 Currently learning Microservices, Docker, Kubernetes, and Cloud Deployment.
+
+📍 Hyderabad, India
+
+💼 Open to Software Engineer, Java Developer, and Full Stack Developer opportunities.
 
 ---
 
@@ -133,87 +128,41 @@ Here are some ideas to get you started:
 ![AI Dev](https://img.shields.io/badge/AI--Assisted_Dev-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
-# 💼 Featured Projects
+## 🚀 Featured Projects
 
-## 📝 Online Examination System
+### 📝 Online Examination System
 
-Full-stack examination platform with:
+A secure full-stack examination platform with role-based access, automated evaluation, and result management.
 
-✔ Student Registration
-
-✔ Section-wise Exams
-
-✔ Real-Time Evaluation
-
-✔ Auto Scoring
-
-✔ Result Management
-
-### Tech Stack
-
-Spring Boot • React.js • MySQL
-
-Later upgraded using:
-
-Next.js • Node.js • Firebase • Vercel
+**Tech Stack:** Spring Boot • React.js • MySQL
 
 ---
 
-## 👨‍💼 HRM Portal
+### 👨‍💼 HRM Portal
 
-A centralized Human Resource Management System.
+Enterprise HR Management System with attendance tracking, payroll, leave management, and employee administration.
 
-### Features
-
-- Employee Onboarding
-- Attendance Tracking
-- Leave Management
-- Payroll Processing
-- Payslip Generation
-- Role Based Access Control
-
-### Tech Stack
-
-React.js • Node.js • Firebase • Vercel
+**Tech Stack:** React.js • Node.js • Firebase
 
 ---
 
-## 🛒 Hyperlocal Quick Commerce Platform
+### 🛒 Quick Commerce Platform
 
-Currently Developing
+Scalable grocery delivery application with user management, delivery tracking, inventory management, and order processing.
 
-### Modules
+**Tech Stack:** Java Microservices • React.js • MySQL
 
-- User Management
-- Admin Dashboard
-- Delivery Partner Module
-- Marketing Module
-- Order Processing
-- Authentication & Authorization
-
-### Tech Stack
-
-React.js
-
-Java Microservices
-
-MySQL
-
-REST APIs
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-charani&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-charani&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhil-charani&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-charani&layout=compact&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-charani&theme=tokyonight" />
+</p>
 
 ## 🔥 Contribution Streak
 
@@ -233,12 +182,12 @@ REST APIs
 
 </p> -->
 
-## 🏅 Developer Profile
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil-charani&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-charani&theme=tokyonight" height="180"/>
-</p>
+</p> -->
 
 ---
 
